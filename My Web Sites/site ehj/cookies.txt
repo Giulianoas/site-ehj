@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.mercadopago.com	TRUE	/	FALSE	1999999999	_d2id	3ecf42c3-d871-4560-8d37-ce93526cd073-n
+.app-us1.com	TRUE	/	FALSE	1999999999	__cfduid	dd161f449ce28cc29dce22b161a9f807b1605455529
+diffuser-cdn.app-us1.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d04a8c54445d0e3c1c5968d81c4405c451605455529
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflareinsights.com	TRUE	/	FALSE	1999999999	__cfduid	d8e67519eb00f16bc35e565fe036ab4f31605455538
+static.cloudflareinsights.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.sedonax.com	TRUE	/	FALSE	1999999999	__cfduid	d672108bea99a598b3a16325b5daaf5981605455539
+sedonax.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
